@@ -45,8 +45,8 @@ void hasilPrima () {
     }
 }
 
-void hadilFibonaci () {
+void hasilFibonacci () {
    if (cekFibonacci(n)) {
-    
+        cout << n << " termasuk bilangan fibonacci" <<endl;
    } 
 }
