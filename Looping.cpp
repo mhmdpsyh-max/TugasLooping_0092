@@ -44,3 +44,7 @@ void hasilPrima () {
         cout << n << " bukan bilangan prima" <<endl;
     }
 }
+
+void hadilFibonaci () {
+    
+}
