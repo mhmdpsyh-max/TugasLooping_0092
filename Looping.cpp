@@ -29,4 +29,9 @@ bool cekFibonacci (int n) {
         a = b;
         b = c;
     }
+    return false;
+}
+
+void inputAngka () {
+    
 }
