@@ -37,3 +37,6 @@ void inputAngka () {
     cin >> n;
 }
 
+void hasilPrima () {
+    
+}
