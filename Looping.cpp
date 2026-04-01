@@ -8,4 +8,6 @@ bool cekPrima(int n) {
     if (n <= 1) {
         return false;
     }
+
+    int i = 2 ;
 }
