@@ -46,5 +46,7 @@ void hasilPrima () {
 }
 
 void hadilFibonaci () {
+   if (cekFibonacci(n)) {
     
+   } 
 }
