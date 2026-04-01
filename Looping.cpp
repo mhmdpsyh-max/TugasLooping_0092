@@ -5,5 +5,7 @@ int n;
 int pilihan;
 
 bool cekPrima(int n) {
-    
+    if (n <= 1) {
+        return false;
+    }
 }
