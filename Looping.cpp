@@ -26,5 +26,6 @@ bool cekFibonacci (int n) {
             return true;
         }
         c = a + b;
+        a = b;
     }
 }
