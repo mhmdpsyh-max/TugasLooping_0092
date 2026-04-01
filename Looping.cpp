@@ -47,6 +47,12 @@ void hasilPrima () {
 
 void hasilFibonacci () {
    if (cekFibonacci(n)) {
-        cout << n << " termasuk bilangan fibonacci" <<endl;
-   } 
+        cout << n << " termasuk bilangan fibonacci" <<endl;       
+   } else {
+        cout << n << " bukan bilangan fibonacci" <<endl;
+   }
+}
+
+void tampilMenu() {
+    
 }
